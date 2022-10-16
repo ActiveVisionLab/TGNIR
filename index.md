@@ -3,7 +3,7 @@ layout: index
 title: "Towards Generalising Neural Implicit Representations"
 ---
 
-<iframe src="assets/presentation.mp4" frameborder="0" allowfullscreen></iframe>
+<video width="100%" src="assets/presentation.mp4"></video width="100%">
 
 
 ## Abstract
