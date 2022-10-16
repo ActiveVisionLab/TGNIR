@@ -1,0 +1,14 @@
+title: "Towards Generalising Neural Implicit Representations"
+description: A method to improve the generalisability of neural implicit representations to semantic tasks.
+url: tgnir.active.vision
+signoff: Theo W. Costain
+
+links:
+  - name: <strong>AVLCode</strong>
+    url: https://code.active.vision
+    external: true
+  - name: <strong>GitHub</strong>
+    url: https://github.com/ActiveVisionLab/LaLaLoc
+    external: true
+
+permalink: pretty
