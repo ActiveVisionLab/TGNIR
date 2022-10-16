@@ -33,11 +33,11 @@ A copy of the paper can be found [here](assets/paper.pdf)
 BiBTeX:
 
 ```
-@article{howard2021lalaloc,
-  title={LaLaLoc: Latent Layout Localisation in Dynamic, Unvisited Environments},
-  author={Howard-Jenkins, Henry and Ruiz-Sarmiento, Jose-Raul and Prisacariu, Victor Adrian},
-  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+@article{costain2022,
+  title={Towards Generalising Neural Implicit Representations},
+  author={Costain, Theo Winston and Prisacariu, Victor Adrian},
+  booktitle={ECCVW},
   pages={},
-  year={2021}
+  year={2022}
 }
 ```
