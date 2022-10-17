@@ -33,7 +33,7 @@ A copy of the paper can be found [here](assets/paper.pdf)
 BiBTeX:
 
 ```
-@article{costain2022,
+@article{costain2022towards,
   title={Towards Generalising Neural Implicit Representations},
   author={Costain, Theo Winston and Prisacariu, Victor Adrian},
   booktitle={ECCVW},
